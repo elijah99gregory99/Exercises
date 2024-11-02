@@ -13,7 +13,7 @@ public class Alien {
         int stress = sc.nextInt();
 
         System.out.println("Are you wounded. 1 for yes, 2 for no: ");
-        int wounded = sc.nextInt();
+
 
         int totalDice = stress;
 
